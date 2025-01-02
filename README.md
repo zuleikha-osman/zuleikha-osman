@@ -11,4 +11,4 @@
 zuleikha-osman/zuleikha-osman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![warranty](https://github.com/user-attachments/assets/119e7feb-c120-4bc0-a33c-54c494a35e6b)
+
