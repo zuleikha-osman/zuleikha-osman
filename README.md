@@ -1,14 +1,13 @@
-- 👋 Hi, I’m @zuleikha-osman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👩‍💻 Web Developer...
+👨‍💻 Full-Stack Web Developer | JavaScript, React.js, Next.js, Tailwind CSS  
 
-<!---
-zuleikha-osman/zuleikha-osman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Passionate about building modern, responsive web applications and delivering exceptional user experiences.  
 
+🚀 Proficient in:
+- Frontend: React.js, Next.js, Tailwind CSS, HTML5, CSS3
+- Backend: Node.js, Express.js
+- Databases: MongoDB, PostgreSQL
+- Version Control: Git & GitHub  
+
+💡 Currently working on innovative projects like 'Food Fast' and 'Coffee Tea' 🚴‍♂️  
+
+📫 Let's collaborate! Contact me at [suleekhozmaan@gmail.com](mailto:suleekhozmaan@gmail.com)
