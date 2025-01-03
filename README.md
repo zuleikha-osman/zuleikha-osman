@@ -10,4 +10,5 @@
 
 💡 Currently working on innovative projects like 'Food Fast' and 'Coffee Tea' 🚴‍♂️  
 
-📫 Let's collaborate! Contact me at [suleekhozmaan@gmail.com](mailto:suleekhozmaan@gmail.com)
+📫 Let's to collaborate! 
+  
