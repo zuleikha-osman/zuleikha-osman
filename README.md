@@ -1,3 +1,4 @@
+![WhatsApp Image 2024-10-09 at 22 50 49_c115ed44](https://github.com/user-attachments/assets/c1072f69-9ec0-4614-8e12-5d3b98324b49)
 👨‍💻 Full-Stack Web Developer | JavaScript, React.js, Next.js, Tailwind CSS  
 
 🌟 Passionate about building modern, responsive web applications and delivering exceptional user experiences.  
