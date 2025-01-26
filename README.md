@@ -9,7 +9,7 @@
 - Databases: MongoDB, PostgreSQL, Mysql
 - Version Control: Git & GitHub  
 
-💡 Currently working on innovative projects like 'Food Fast' and 'Coffee Tea' 🚴‍♂️  
+💡 Currently working on innovative projects like 'Food Fast' and 'Juices & sweets' 🚴‍♂️  
 
 📫 Let's to collaborate! 
 
