@@ -1,5 +1,5 @@
 
-👨‍💻 Full-Stack Web Developer | JavaScript, React.js, Next.js, Tailwind CSS  
+👨‍💻 Full-Stack Web Developer | JavaScript, React.js, Next.js, Tailwind CSS 
 
 🌟 Passionate about building modern, responsive web applications and delivering exceptional user experiences.  
 
