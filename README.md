@@ -6,7 +6,7 @@
 🚀 Proficient in:
 - Frontend: React.js, Next.js, Tailwind CSS, HTML5, CSS3
 - Backend: Node.js, Express.js
-- Databases: MongoDB, PostgreSQL, Mysql
+- Databases: MongoDB, PostgreSQL, Mysql 
 - Version Control: Git & GitHub  
 
 💡 Currently working on innovative projects like 'Food Fast' and 'coffee Tea' 🚴‍♂️  
