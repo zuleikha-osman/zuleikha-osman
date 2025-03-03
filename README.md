@@ -11,5 +11,5 @@
 
 💡 Currently working on innovative projects like 'Food Fast' and 'coffee Tea' 🚴‍♂️  
 
-📫 Let's to collaborate! 
+📫 Let's to collaborate!
 
